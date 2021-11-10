@@ -1,0 +1,39 @@
+html {
+    background-color: cornflowerblue;
+  }
+  
+  .shopping-cart-body {
+    background-color: cornflowerblue;
+  }
+  
+  .con-body {
+    background-color: cornflowerblue;
+  }
+  
+  .transparent-column {
+    background-color: cornflowerblue;
+    padding-right: 0;
+  }
+  
+  .product {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 20px;
+  }
+  
+  .submit-div {
+    float: right;
+  }
+  
+  .submit-button {
+    float: right;
+    bottom: 0;
+  }
+  
+  .upper-padding {
+    height: 20px;
+  }
+  
+  .right-side-card {
+    position: relative;
+  }
