@@ -1,0 +1,21 @@
+.product-card,
+.search-card {
+  margin-top: 20px;
+  padding: 20px;
+}
+
+.side-pad {
+  background-color: cornflowerblue;
+}
+
+.main-col {
+  background-color: cornflowerblue;
+}
+
+.form-color {
+  background-color: cornflowerblue;
+}
+
+.scoot-btn {
+  margin-left: 5px;
+}

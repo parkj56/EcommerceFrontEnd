@@ -1,0 +1,51 @@
+.body {
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    background: linear-gradient(135deg, #71b7e6, #9b59b6);
+    font-size: 20px;
+  }
+  
+  .review-card {
+    height: 20rem;
+    width: 60rem;
+  }
+  
+  .sub-button {
+    margin: 0;
+    position: absolute;
+    top: 84%;
+    left: 45%;
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+  }
+  
+  .review-body {
+    margin: 0;
+    position: absolute;
+    top: 30%;
+    left: 30%;
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+  }
+  
+  .rating {
+    margin-top: 10px;
+    position: absolute;
+    top: 65%;
+    left: 30.3%;
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+  }
+  
+  .review-header {
+    text-align: center;
+    margin-bottom: 2rem;
+  }
+  
+  .label {
+    margin-right: 1rem;
+  }
+  
