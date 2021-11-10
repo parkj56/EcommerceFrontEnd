@@ -1,7 +1,7 @@
 import './postreview.css'
 import axios from 'axios';
 import React from "react";
-import useForm from './useForm';
+import useForm from '../../components/useForm';
 import { useHistory } from "react-router-dom";
 
 

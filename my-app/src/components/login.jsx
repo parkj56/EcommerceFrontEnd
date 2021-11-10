@@ -1,8 +1,8 @@
 import React from 'react';
 import { useHistory } from "react-router-dom";
 import { Link } from 'react-router-dom';
-import useForm from './useForm';
-import useLogin from './useLogin';
+import useForm from '../../components/useForm';
+import useLogin from '../../components/useLogin';
 import './login.css';
 
 const Login = () => {
