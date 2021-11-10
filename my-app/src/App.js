@@ -7,9 +7,9 @@ import Products from './components/products';
 import ShoppingCart from './components/shoppingcart';
 import Login from './components/login';
 import Register from './components/register';
-import Seller from './components/Seller';
+import Seller from './components/seller';
 import PostReview from './components/postreview';
-import Logout from './components/pages/logout';
+import Logout from './components/logout';
 import Navbar from './components/navbar';
 
 export default App;
