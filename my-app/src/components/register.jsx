@@ -2,9 +2,9 @@ import React, { useEffect, useState } from 'react';
 import { useHistory } from "react-router-dom";
 import './register.css'
 
-import useForm from './components/useForm';
-import useLogin from './components/useLogin';
-import NewUser from './components/newUser';
+import useForm from './useLogin';
+import useLogin from './userForm';
+import NewUser from './newUser';
 
 const Register = () => {
     const history = useHistory();

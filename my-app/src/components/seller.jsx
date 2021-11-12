@@ -1,7 +1,7 @@
 import React from "react";
 import "./seller.css"
 import axios from 'axios';
-import useForm from '../../components/useForm';
+import useForm from './userForm';
 import { useHistory } from "react-router-dom";
 
 
